@@ -1,0 +1,97 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Sesc em Minas
+  title-url: https://www.sescmg.com.br/
+  date: Jan 2018 - Present
+  subtitle: Systems Analyst (Developer)
+  tags:
+    - tag: Python
+    - tag: PHP
+    - tag: Angular
+    - tag: Ionic
+    - tag: Mysql
+    - tag: MSSQL
+    - tag: Ibm Db2
+    - tag: Redis
+    - tag: Apache
+    - tag: Nginx
+    - tag: IIS
+    - tag: Flask
+    - tag: Slim
+    - tag: Git Flow
+    - tag: PowerShell
+  timeline-side: right
+
+- title: PUC Minas
+  title-url: https://www.pucminas.br/destaques/Paginas/default.aspx
+  date: 2017 - 2018
+  subtitle: Continued Education Course in Data Science / Big Data <br/> <br/> Pontifícia Universidade Católica de Minas Gerais
+  tags:
+    - tag: Python
+    - tag: R
+    - tag: Data Science
+    - tag: Machine Learning
+  timeline-side: left
+
+
+- title: Sesc em Minas
+  title-url: https://www.sescmg.com.br/
+  date: Feb 2015 - Jan 2018
+  subtitle: IT technician (Developer)
+  tags:
+    - tag: PHP
+    - tag: Javascript
+    - tag: AngularJs
+    - tag: Mysql
+    - tag: MSSQL
+    - tag: Ibm Db2
+  timeline-side: right
+
+- title: PUC Minas
+  title-url: https://www.pucminas.br/destaques/Paginas/default.aspx
+  date: 2013 - 2016
+  subtitle: B.Sc. in Information Systems <br/> <br/> Pontifícia Universidade Católica de Minas Gerais
+  timeline-side: left
+
+- title: Sesc em Minas
+  title-url: https://www.sescmg.com.br/
+  date: Nov 2012 - Feb 2015
+  subtitle: IT technician
+  tags:
+    - tag: IT Support
+    - tag: Windows
+    - tag: Hardware
+    - tag: Software
+  timeline-side: right
+
+- title: Sesc em Minas
+  title-url: https://www.sescmg.com.br/
+  date: Nov 2011 - Nov 2012
+  subtitle: Intern
+  tags:
+    - tag: IT Support
+    - tag: Windows
+  timeline-side: right
+
+- title: Polimig
+  title-url: https://www.polimig.com.br
+  date: 2011 - 2012
+  subtitle: Developer Course (Brazilian technical course)
+  timeline-side: left
