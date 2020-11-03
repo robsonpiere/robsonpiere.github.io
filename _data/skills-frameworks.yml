@@ -6,28 +6,34 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
-
-- name: AngularJS
   weight: 3
 
-- name: React
+- name: AngularJS
   weight: 4
 
 - name: Node
   weight: 1
 
-- name: Flutter
+- name: Ionic
   weight: 2
 
 - name: Express
-  weight: 3
+  weight: 2
+
+- name: Flask
+  weight: 4
 
 - name: Django
   weight: 1
 
-- name: Spring
+- name: Codeigniter
+  weight: 5
+
+- name: Slim
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: Bootstrap
+  weight: 2
+
+- name: W3.css
+  weight: 2
