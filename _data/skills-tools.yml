@@ -5,6 +5,15 @@
 # - name: Git
 #   weight: 5
 
+- name: Azure
+  weight: 1
+
+- name: AWS
+  weight: 3
+
+- name: Apache Airflow
+  weight: 2
+
 - name: Git
   weight: 4
 

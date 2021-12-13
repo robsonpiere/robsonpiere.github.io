@@ -17,9 +17,21 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Invillia / Olx Brazil
+  title-url: https://invillia.com/
+  date: Jun 2021 - Present
+  subtitle: Software Engineer (Data)
+  tags:
+    - tag: Python
+    - tag: AWS
+    - tag: Apache Airflow
+    - tag: Postgress
+    - tag: ETL
+  timeline-side: right
+
 - title: Sesc em Minas
   title-url: https://www.sescmg.com.br/
-  date: Jan 2018 - Present
+  date: Jan 2018 - Jul 2021
   subtitle: Systems Analyst (Developer)
   tags:
     - tag: Python

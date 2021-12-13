@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Robson Piere
 # description: This will be meta HTML tag content. This can be ignored.
-description: Developer and Data Science Student
+description: Software Engineer and Data Science Student
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -37,7 +37,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: '👨‍💻 I am currently a Software Engineer at Sesc em Minas <br> 🤓 I’m currently learning AI, ML and Big Data <br> 🐰  I have a rabbit <br> 🚴‍♂️ 🏃 I like running and cycling'
+about_me_description: '👨‍💻 I am currently a Software Engineer (Data) at Invillia  <br> 🤓 I’m currently learning AI, ML and Big Data <br> 🐰  I have a rabbit <br> 🚴‍♂️ 🏃 I like running and cycling'
 
 # SKILLS SECTION
 # show_skills_card:
