@@ -5,6 +5,9 @@ on:
     branches:
       - "main"
 
+permissions:
+  deployments: write
+
 jobs:
   jekyll:
     runs-on: ubuntu-latest
@@ -18,4 +21,4 @@ jobs:
           bundle install
       - uses: helaili/jekyll-action@2.2
         env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
