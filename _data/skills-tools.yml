@@ -12,7 +12,7 @@
   weight: 3
 
 - name: Apache Airflow
-  weight: 2
+  weight: 4
 
 - name: Git
   weight: 4

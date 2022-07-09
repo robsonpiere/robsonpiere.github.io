@@ -23,7 +23,12 @@
   subtitle: Software Engineer (Data)
   tags:
     - tag: Python
+    - tag: Java
     - tag: AWS
+    - tag: SQS
+    - tag: SNS
+    - tag: Lambda
+    - tag: Kafka
     - tag: Apache Airflow
     - tag: Postgress
     - tag: ETL
